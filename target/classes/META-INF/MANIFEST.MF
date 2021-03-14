@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: joinexample
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rakes
+Implementation-Vendor-Id: joinexample
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/joinexample
+Created-By: Maven Integration for Eclipse
+
